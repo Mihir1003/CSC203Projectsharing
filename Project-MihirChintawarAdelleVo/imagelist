@@ -1,0 +1,24 @@
+normalMagician new-images/wizard-images/PNG/wizard/attack_1.png 255 255 255 0
+normalMagician new-images/wizard-images/PNG/wizard/attack_2.png
+normalMagician new-images/wizard-images/PNG/wizard/attack_3.png
+iceMagician new-images/wizard-images/PNG/wizard_ice/attack_1.png 255 255 255 0
+iceMagician new-images/wizard-images/PNG/wizard_ice/attack_2.png
+iceMagician new-images/wizard-images/PNG/wizard_ice/attack_3.png
+fireMagician new-images/wizard-images/PNG/wizard_fire/attack_1.png
+fireMagician new-images/wizard-images/PNG/wizard_fire/attack_2.png
+fireMagician new-images/wizard-images/PNG/wizard_fire/attack_3.png
+fireOrb new-images/orb-images/fire-orb.png 255 255 255 0
+iceOrb new-images/orb-images/ice-orb.png 255 255 255 0
+fireMonster new-images/monster-images/fire-monster.png
+iceMonster new-images/monster-images/ice-monster.png
+fireSpell new-images/orb-images/fire-orb.png 255 255 255 0
+fireSpell new-images/orb-images/fire-orb-2.png
+fireSpell new-images/orb-images/fire-orb-3.png
+iceSpell new-images/orb-images/ice-orb.png 255 255 255 0
+iceSpell new-images/orb-images/ice-orb-2.png
+iceSpell new-images/orb-images/ice-orb-3.png
+invisibleDoor new-images/door-images/closed-door.png
+door new-images/door-images/open-door-2.png
+sea new-images/background-images/background-tile.jpg 255 255 255 0
+obstacle new-images/background-images/crate.png
+bubbles new-images/background-images/dark-stone-tile.png
